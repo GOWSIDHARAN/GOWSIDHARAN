@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GOWSIDHARAN
 - 👀 I’m interested in Machine Learning and Software Development
-- 🌱 I’m currently a Software Engineer IN YEllow.Ai
+- 🌱 I’m currently a Software Engineer in Yellow.Ai
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me through Linked In https://www.linkedin.com/in/gowsidharan-s-t-07a2b2284/
 
